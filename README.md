@@ -1,1 +1,1 @@
-# Data-Science-Assignments
+Github repository for data science assignment
